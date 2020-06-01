@@ -16,5 +16,5 @@ This device measures the low frequency signal of sinusoidal wave having frequenc
 Generator circuit (here we used schimdt trigger by using UA709) is used to produce a simple pulse wave. This pulse is given as clock[PIN 1]
 to CD4033 Counter.
 As we are measuring frequency so it is required that counting will be done for only 1 sec. So we input single pulse to clock inhinit [PIN 2].
- So that untill the pulse is low, counter counts and as it will go high, the counting will stop and since pulse is of duration 1 sec 
+ So that untill the pulse is low, counter counts and as it will go high, the counting will stop. Since pulse is of duration 1 sec 
  we will get the frequency of our input sinusoidal wave .
