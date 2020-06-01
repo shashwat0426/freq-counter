@@ -3,9 +3,9 @@
 # Introduction-
 This device measures the low frequency signal of sinusoidal wave having frequency in integers.
 
-# Equipment used-
+# Apparatus used-
 1. 7-Segment Display Common Cathode -RED
-2. IC CD4033 7 Segment Counter
+2. IC CD4033 
 3. OpAmp UA709
 4. Resistors and Capacitors
 5. Batteries
