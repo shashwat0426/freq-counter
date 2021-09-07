@@ -18,3 +18,10 @@ to CD4033 Counter.
 As we are measuring frequency so it is required that counting will be done for only 1 sec. So we input single pulse to clock inhinit [PIN 2].
  So that untill the pulse is low, counter counts and as it will go high, the counting will stop. Since pulse is of duration 1 sec 
  we will get the frequency of our input sinusoidal wave .
+ 
+ ![image](https://user-images.githubusercontent.com/60343675/132389479-55ff7865-26d0-435d-8aea-71058590be51.png)
+
+
+
+![image](https://user-images.githubusercontent.com/60343675/132389546-b3c457ea-173a-4da3-a46b-18f081216c8b.png)
+
